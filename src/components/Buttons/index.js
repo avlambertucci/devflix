@@ -1,6 +1,6 @@
 import styled from 'styled-components';
 
-  const Button = styled.a`
+  const Button = styled.button`
     /* eslint-disable-next-line */
     color: var(--white);
     /* eslint-disable-next-line */
